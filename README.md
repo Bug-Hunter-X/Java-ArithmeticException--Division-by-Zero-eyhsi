@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates the common error of division by zero, resulting in an ArithmeticException. The solution shows how to handle this error using a simple check to avoid division by zero.
